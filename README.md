@@ -49,7 +49,4 @@ It leverages React's component-based architecture to create reusable UI componen
 </ol>
 <hr>
 
-**Steps to run the app**
-
-
 
